@@ -20,7 +20,6 @@ Here are some ideas to get you started:
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Nunito&size=45&color=6BCD2C&background=DAFF0000&center=true&vCenter=true&multiline=true&width=900&height=80&lines=Breiner+López + full+Stack+Developer)](https://git.io/typing-svg)
 <br/>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu+Mono&duration=6000&color=6BCD2C&background=DAFF0000&center=true&vCenter=true&multiline=true&width=900&height=95&lines=Software+Dev)](https://git.io/typing-svg)
 
 <div align="center">
 <h1>
