@@ -18,8 +18,9 @@ Here are some ideas to get you started:
 
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Nunito&size=45&color=6BCD2C&background=DAFF0000&center=true&vCenter=true&multiline=true&width=900&height=80&lines=Breiner+López + full+Stack+Developer)](https://git.io/typing-svg)
-<br/>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Nunito&size=45&color=6BCD2C&background=DAFF0000&center=true&vCenter=true&multiline=true&width=900&height=80&lines=Breiner+López)]
+(https://git.io/typing-svg)
+
 
 <div align="center">
 <h1>
