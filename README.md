@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=breiner+López+of+text;Second+line+of+text)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Breiner+López;full+Stack+Developer)](https://git.io/typing-svg)
